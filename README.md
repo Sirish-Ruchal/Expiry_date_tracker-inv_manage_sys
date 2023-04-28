@@ -1,6 +1,6 @@
 Here are two excel templates to track expiry date and for inventory management system.
 
-1) Inventory management system: This system is entirly built on Excel. Everything a user need is on the report sheet. 
+1) Inventory management system: This system is entirly built on Excel. Everything a user need is on the report sheet. This system uses VBA.
 
 * Click on ""Current Stock"" box on the upper left side to bring list of the inventory we have in the system.
 
@@ -17,7 +17,7 @@ Here are two excel templates to track expiry date and for inventory management s
 			
 
 
-2) Expiry date tracker: This template is useful to track expiry date of each products. The user can get the information such as:
+2) Expiry date tracker: This template is useful to track expiry date of each products. This template uses builtin functions. The user can get the information such as:
 
 * number of days to expiry for individual product.
 
