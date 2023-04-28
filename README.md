@@ -15,6 +15,8 @@ Here are two excel templates to track expiry date and for inventory management s
 				
 				
 			
+
+
 2) Expiry date tracker: This template is useful to track expiry date of each products. The user can get the information such as:
 
 * number of days to expiry for individual product.
